@@ -20,5 +20,5 @@ return Object
 
 function destructivelyDeleteFromObjectByKey(object, key){
  delete Object.key
- return Object
+ return object
 }
