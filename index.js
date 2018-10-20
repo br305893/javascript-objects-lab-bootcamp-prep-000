@@ -3,6 +3,4 @@ var recipes = {
 'Chocolate Chip Cookies': ["Chocolate Chips", "Milk", "Flour", "Eggs"]
 }
 
-Object updateObjectWithKeyAndValue (object, key, value){
-return object[key: value]
-}
+
