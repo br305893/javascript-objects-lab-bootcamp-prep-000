@@ -14,6 +14,6 @@ return object
 
 function deleteFromObjectByKey(object, key){
 Object.assign({}, object)
-delete newObject.key
-return newObject
+delete Object.key
+return Object
 }
